@@ -1,6 +1,6 @@
 *Cet exemple est à compléter et à adapter. Les commentaires en italiques constituent une aide à la rédaction ; ils doivent être supprimés avant enregistrement et/ou impression.*
 
-# ARTICLE PREMIER - NOM
+# ARTICLE 1 - NOM
 
 Il est fondé entre les adhérents aux présents statuts une association régie par la loi du 1er juillet 1901 et le décret du 16 août 1901, ayant pour titre : ...
 
@@ -8,7 +8,7 @@ Il est fondé entre les adhérents aux présents statuts une association ré
 
 # ARTICLE 2 - BUT OBJET
 
-Cette association a pour object ...
+Cette association a pour objet ...
 
 *Prévoir un objet assez large afin d'éviter une révision de statuts et lister les activités envisagées pour atteindre l’objet. Préciser éventuellement à cet article (sinon à l’article « ressources ») l’exercice d’activités économiques. En effet, une association dont l’objet ou les moyens d’action impliquent des activités économiques doit le mentionner expressément dans ses statuts (Code de commerce Article L442-7).*
 
